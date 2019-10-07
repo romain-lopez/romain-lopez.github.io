@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenling Xu* | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/authors/chenling-xu/</link>
+      <atom:link href="https://romain-lopez.github.io/authors/chenling-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenling Xu*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>Chenling Xu*</title>
+      <link>https://romain-lopez.github.io/authors/chenling-xu/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

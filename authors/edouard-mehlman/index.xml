@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edouard Mehlman | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/authors/edouard-mehlman/</link>
+      <atom:link href="https://romain-lopez.github.io/authors/edouard-mehlman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edouard Mehlman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>Edouard Mehlman</title>
+      <link>https://romain-lopez.github.io/authors/edouard-mehlman/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Generative Model for Semi-Supervised Classification with Noisy Labels</title>
+      <link>https://romain-lopez.github.io/publication/noisy-labels/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

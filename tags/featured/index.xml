@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>featured | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/tags/featured/</link>
+      <atom:link href="https://romain-lopez.github.io/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <description>featured</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>featured</title>
+      <link>https://romain-lopez.github.io/tags/featured/</link>
+    </image>
+    
+    <item>
+      <title>Deep generative modeling for single-cell transcriptomics</title>
+      <link>https://romain-lopez.github.io/publication/sc-vi/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sc-vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Constraints on Auto-Encoding Variational Bayes</title>
+      <link>https://romain-lopez.github.io/publication/hcv-nips/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/hcv-nips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

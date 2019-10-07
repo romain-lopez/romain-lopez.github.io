@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/publication_types/2/</link>
+      <atom:link href="https://romain-lopez.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://romain-lopez.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/total-vimlcb/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/total-vimlcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Generative Models for Detecting Differential Expression in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/lfcmlcb/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/lfcmlcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data</title>
+      <link>https://romain-lopez.github.io/publication/auto-zi/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/auto-zi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/review-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/review-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-Effective Incentive Allocation via Structured Counterfactual Inference</title>
+      <link>https://romain-lopez.github.io/publication/bandit-2020/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/bandit-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements</title>
+      <link>https://romain-lopez.github.io/publication/gim-vi/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/gim-vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrublet: computational identification of cell doublets in single-cell transcriptomic data</title>
+      <link>https://romain-lopez.github.io/publication/scrublet/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scrublet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep generative modeling for single-cell transcriptomics</title>
+      <link>https://romain-lopez.github.io/publication/sc-vi/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sc-vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Constraints on Auto-Encoding Variational Bayes</title>
+      <link>https://romain-lopez.github.io/publication/hcv-nips/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/hcv-nips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Generative Model for Semi-Supervised Classification with Noisy Labels</title>
+      <link>https://romain-lopez.github.io/publication/noisy-labels/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/noisy-labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deep generative model for gene expression profiles from single-cell RNA sequencing with application to differential expression</title>
+      <link>https://romain-lopez.github.io/publication/sc-v-iworkshop/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sc-v-iworkshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

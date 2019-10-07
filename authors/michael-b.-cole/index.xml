@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael B. Cole | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/authors/michael-b.-cole/</link>
+      <atom:link href="https://romain-lopez.github.io/authors/michael-b.-cole/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael B. Cole</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>Michael B. Cole</title>
+      <link>https://romain-lopez.github.io/authors/michael-b.-cole/</link>
+    </image>
+    
+    <item>
+      <title>Deep generative modeling for single-cell transcriptomics</title>
+      <link>https://romain-lopez.github.io/publication/sc-vi/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sc-vi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

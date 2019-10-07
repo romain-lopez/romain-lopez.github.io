@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/tags/journal/</link>
+      <atom:link href="https://romain-lopez.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>journal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>journal</title>
+      <link>https://romain-lopez.github.io/tags/journal/</link>
+    </image>
+    
+    <item>
+      <title>Scrublet: computational identification of cell doublets in single-cell transcriptomic data</title>
+      <link>https://romain-lopez.github.io/publication/scrublet/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scrublet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep generative modeling for single-cell transcriptomics</title>
+      <link>https://romain-lopez.github.io/publication/sc-vi/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sc-vi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
