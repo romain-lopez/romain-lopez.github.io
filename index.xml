@@ -5,12 +5,36 @@
     <link>https://romain-lopez.github.io/</link>
       <atom:link href="https://romain-lopez.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Romain Lopez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Romain Lopez</title>
       <link>https://romain-lopez.github.io/</link>
     </image>
+    
+    <item>
+      <title>Cost-Effective Incentive Allocation via Structured Counterfactual Inference</title>
+      <link>https://romain-lopez.github.io/publication/bandit-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/bandit-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/review-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/review-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep generative models for single-cell transcriptomics</title>
@@ -50,30 +74,6 @@
       <link>https://romain-lopez.github.io/publication/auto-zi/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/auto-zi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/review-2019/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/review-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost-Effective Incentive Allocation via Structured Counterfactual Inference</title>
-      <link>https://romain-lopez.github.io/publication/bandit-2020/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/bandit-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
       <description></description>
     </item>
     

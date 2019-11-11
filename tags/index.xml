@@ -5,12 +5,28 @@
     <link>https://romain-lopez.github.io/tags/</link>
       <atom:link href="https://romain-lopez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://romain-lopez.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>conference</title>
+      <link>https://romain-lopez.github.io/tags/conference/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>insubmission</title>
+      <link>https://romain-lopez.github.io/tags/insubmission/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/tags/insubmission/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Generative models</title>
@@ -37,17 +53,9 @@
     </item>
     
     <item>
-      <title>insubmission</title>
-      <link>https://romain-lopez.github.io/tags/insubmission/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/insubmission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>workshop</title>
       <link>https://romain-lopez.github.io/tags/workshop/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/tags/workshop/</guid>
       <description></description>
     </item>
@@ -65,14 +73,6 @@
       <link>https://romain-lopez.github.io/tags/featured/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/tags/featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference</title>
-      <link>https://romain-lopez.github.io/tags/conference/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/conference/</guid>
       <description></description>
     </item>
     

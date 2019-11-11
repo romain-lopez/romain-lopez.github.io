@@ -5,12 +5,36 @@
     <link>https://romain-lopez.github.io/tags/workshop/</link>
       <atom:link href="https://romain-lopez.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>workshop</title>
       <link>https://romain-lopez.github.io/tags/workshop/</link>
     </image>
+    
+    <item>
+      <title>A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/total-vimlcb/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/total-vimlcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Generative Models for Detecting Differential Expression in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/lfcmlcb/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/lfcmlcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data</title>
+      <link>https://romain-lopez.github.io/publication/auto-zi/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/auto-zi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements</title>

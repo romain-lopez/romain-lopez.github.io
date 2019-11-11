@@ -5,7 +5,7 @@
     <link>https://romain-lopez.github.io/authors/</link>
       <atom:link href="https://romain-lopez.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,96 @@
     <item>
       <title>&lt;u&gt;Romain Lopez&lt;/u&gt;</title>
       <link>https://romain-lopez.github.io/authors/uromain-lopez/u/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/authors/uromain-lopez/u/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chenchen Li</title>
+      <link>https://romain-lopez.github.io/authors/chenchen-li/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/chenchen-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junwu Xiong</title>
+      <link>https://romain-lopez.github.io/authors/junwu-xiong/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/junwu-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Song</title>
+      <link>https://romain-lopez.github.io/authors/le-song/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/le-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael I. Jordan</title>
+      <link>https://romain-lopez.github.io/authors/michael-i.-jordan/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/michael-i.-jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiang Yan</title>
+      <link>https://romain-lopez.github.io/authors/xiang-yan/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/xiang-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Qi</title>
+      <link>https://romain-lopez.github.io/authors/yuan-qi/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/yuan-qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Gayoso</title>
+      <link>https://romain-lopez.github.io/authors/adam-gayoso/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/adam-gayoso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chenling Xu*</title>
+      <link>https://romain-lopez.github.io/authors/chenling-xu/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/chenling-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edouard Mehlman</title>
+      <link>https://romain-lopez.github.io/authors/edouard-mehlman/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/edouard-mehlman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Regier</title>
+      <link>https://romain-lopez.github.io/authors/jeffrey-regier/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/jeffrey-regier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nir Yosef</title>
+      <link>https://romain-lopez.github.io/authors/nir-yosef/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/authors/nir-yosef/</guid>
       <description></description>
     </item>
     
@@ -25,38 +113,6 @@
       <link>https://romain-lopez.github.io/authors/aaron-streets/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/authors/aaron-streets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adam Gayoso</title>
-      <link>https://romain-lopez.github.io/authors/adam-gayoso/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/adam-gayoso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeffrey Regier</title>
-      <link>https://romain-lopez.github.io/authors/jeffrey-regier/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/jeffrey-regier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael I. Jordan</title>
-      <link>https://romain-lopez.github.io/authors/michael-i.-jordan/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/michael-i.-jordan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nir Yosef</title>
-      <link>https://romain-lopez.github.io/authors/nir-yosef/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/nir-yosef/</guid>
       <description></description>
     </item>
     
@@ -77,66 +133,10 @@
     </item>
     
     <item>
-      <title>Zoe Steier</title>
+      <title>Zoë Steier</title>
       <link>https://romain-lopez.github.io/authors/zoe-steier/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/authors/zoe-steier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chenchen Li</title>
-      <link>https://romain-lopez.github.io/authors/chenchen-li/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/chenchen-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junwu Xiong</title>
-      <link>https://romain-lopez.github.io/authors/junwu-xiong/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/junwu-xiong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Le Song</title>
-      <link>https://romain-lopez.github.io/authors/le-song/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/le-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiang Yan</title>
-      <link>https://romain-lopez.github.io/authors/xiang-yan/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/xiang-yan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuan Qi</title>
-      <link>https://romain-lopez.github.io/authors/yuan-qi/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/yuan-qi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chenling Xu*</title>
-      <link>https://romain-lopez.github.io/authors/chenling-xu/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/chenling-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edouard Mehlman</title>
-      <link>https://romain-lopez.github.io/authors/edouard-mehlman/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/authors/edouard-mehlman/</guid>
       <description></description>
     </item>
     
