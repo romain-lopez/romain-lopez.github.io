@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>https://romain-lopez.github.io/publication/sb-vae/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/tags/insubmission/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/jeffrey-regier/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://romain-lopez.github.io/authors/junwu-xiong/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -44,6 +59,16 @@
   
   <url>
     <loc>https://romain-lopez.github.io/authors/michael-i.-jordan/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/nir-yosef/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/pierre-boyeau/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,46 +100,6 @@
   <url>
     <loc>https://romain-lopez.github.io/authors/yuan-qi/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/adam-gayoso/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/chenling-xu/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/edouard-mehlman/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/publication/review-2019/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/tags/insubmission/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/jeffrey-regier/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/nir-yosef/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/publication/scanvi-2019/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,6 +138,11 @@
   </url>
   
   <url>
+    <loc>https://romain-lopez.github.io/authors/adam-gayoso/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://romain-lopez.github.io/publication/lfcmlcb/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -168,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://romain-lopez.github.io/authors/pierre-boyeau/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://romain-lopez.github.io/tags/workshop/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -180,6 +165,26 @@
   <url>
     <loc>https://romain-lopez.github.io/authors/zoe-steier/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/publication/review-2019/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/chenling-xu/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/edouard-mehlman/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/publication/scanvi-2019/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

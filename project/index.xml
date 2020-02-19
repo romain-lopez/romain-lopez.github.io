@@ -5,7 +5,7 @@
     <link>https://romain-lopez.github.io/project/</link>
       <atom:link href="https://romain-lopez.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -18,13 +18,12 @@
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/project/scvi/</guid>
       <description>&lt;p&gt;Single-cell Variational Inference (scVI) is a fully-probabilistic model for single-cell RNA-sequencing data. scVI is a deep generative model whose inference uses variational methods and is amortized with neural networks. Consequently, scVI is fast and fits one million cells in under a few hours. Furthermore, scVI is flexible and achieves high accuracy for dimensionality reduction, imputation and differential expression. In addition to the &lt;a href=&#34;https://romain-lopez.github.io/publication/sc-vi/&#34;&gt;journal publication&lt;/a&gt;, we recommend the following ressources to get more familiar with scVI:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;the &lt;a href=&#34;https://bioinformatics.chat/scvi&#34; target=&#34;_blank&#34;&gt;podcast&lt;/a&gt; recorded on the bioinformatics chat&lt;/li&gt;
-&lt;li&gt;the &lt;a href=&#34;https://yoseflab.github.io/&#34; target=&#34;_blank&#34;&gt;YosefLab blog&lt;/a&gt; usually includes discussions about special topics&lt;/li&gt;
-&lt;li&gt;our &lt;a href=&#34;https://github.com/YosefLab/scVI&#34; target=&#34;_blank&#34;&gt;codebase&lt;/a&gt;, which includes user-friendly notebooks&lt;/li&gt;
-&lt;li&gt;the &lt;a href=&#34;https://www.nature.com/articles/s41592-018-0230-9&#34; target=&#34;_blank&#34;&gt;News &amp;amp; View&lt;/a&gt; in Nature Methods&lt;/li&gt;
-&lt;li&gt;our &lt;a href=&#34;https://bair.berkeley.edu/blog/2018/12/05/genes/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; on the Berkeley AI Research blog&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://bioinformatics.chat/scvi&#34;&gt;podcast&lt;/a&gt; recorded on the bioinformatics chat&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://yoseflab.github.io/&#34;&gt;YosefLab blog&lt;/a&gt; usually includes discussions about special topics&lt;/li&gt;
+&lt;li&gt;our &lt;a href=&#34;https://github.com/YosefLab/scVI&#34;&gt;codebase&lt;/a&gt;, which includes user-friendly notebooks&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://www.nature.com/articles/s41592-018-0230-9&#34;&gt;News &amp;amp; View&lt;/a&gt; in Nature Methods&lt;/li&gt;
+&lt;li&gt;our &lt;a href=&#34;https://bair.berkeley.edu/blog/2018/12/05/genes/&#34;&gt;post&lt;/a&gt; on the Berkeley AI Research blog&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

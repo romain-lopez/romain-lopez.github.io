@@ -5,18 +5,12 @@
     <link>https://romain-lopez.github.io/authors/jeffrey-regier/</link>
       <atom:link href="https://romain-lopez.github.io/authors/jeffrey-regier/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeffrey Regier</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://romain-lopez.github.io/img/icon-192.png</url>
-      <title>Jeffrey Regier</title>
-      <link>https://romain-lopez.github.io/authors/jeffrey-regier/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
+      <title>Decision-Making with Auto-Encoding Variational Bayes</title>
+      <link>https://romain-lopez.github.io/publication/sb-vae/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sb-vae/</guid>
       <description></description>
     </item>
     
@@ -41,6 +35,14 @@
       <link>https://romain-lopez.github.io/publication/auto-zi/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/auto-zi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
       <description></description>
     </item>
     

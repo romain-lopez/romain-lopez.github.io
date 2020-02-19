@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="academic website romain lopez scrna-seq deep learning generative models">
+  <meta name="description" content="To make decisions based on a model fit by Auto-Encoding Variational Bayes (AEVB), practitioners typically use importance sampling to estimate a functional of the posterior distribution. The variational distribution found by AEVB serves as the proposal distribution for importance sampling. However, this proposal distribution may give unreliable (high variance) importance sampling estimates, thus leading to poor decisions. We explore how changing the objective function for learning the variational distribution, while continuing to learn the generative model based on the ELBO, affects the quality of downstream decisions. For a particular model, we characterize the error of importance sampling as a function of posterior variance and show that proposal distributions learned with evidence upper bounds are better. Motivated by these theoretical results, we propose a novel variant of the VAE. In addition to experimenting with MNIST, we present a full-fledged application of the proposed method to single-cell RNA sequencing. In this challenging instance of multiple hypothesis testing, the proposed method surpasses the current state of the art.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://romain-lopez.github.io/tags/conference/">
+  <link rel="alternate" hreflang="en-us" href="https://romain-lopez.github.io/publication/sb-vae/">
 
   
 
@@ -94,14 +94,12 @@
 
 
   
-  <link rel="alternate" href="/tags/conference/index.xml" type="application/rss+xml" title="Romain Lopez">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://romain-lopez.github.io/tags/conference/">
+  <link rel="canonical" href="https://romain-lopez.github.io/publication/sb-vae/">
 
   
   
@@ -117,18 +115,63 @@
   <meta property="twitter:creator" content="@_romain_lopez_">
   
   <meta property="og:site_name" content="Romain Lopez">
-  <meta property="og:url" content="https://romain-lopez.github.io/tags/conference/">
-  <meta property="og:title" content="conference | Romain Lopez">
-  <meta property="og:description" content="academic website romain lopez scrna-seq deep learning generative models"><meta property="og:image" content="https://romain-lopez.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://romain-lopez.github.io/publication/sb-vae/">
+  <meta property="og:title" content="Decision-Making with Auto-Encoding Variational Bayes | Romain Lopez">
+  <meta property="og:description" content="To make decisions based on a model fit by Auto-Encoding Variational Bayes (AEVB), practitioners typically use importance sampling to estimate a functional of the posterior distribution. The variational distribution found by AEVB serves as the proposal distribution for importance sampling. However, this proposal distribution may give unreliable (high variance) importance sampling estimates, thus leading to poor decisions. We explore how changing the objective function for learning the variational distribution, while continuing to learn the generative model based on the ELBO, affects the quality of downstream decisions. For a particular model, we characterize the error of importance sampling as a function of posterior variance and show that proposal distributions learned with evidence upper bounds are better. Motivated by these theoretical results, we propose a novel variant of the VAE. In addition to experimenting with MNIST, we present a full-fledged application of the proposed method to single-cell RNA sequencing. In this challenging instance of multiple hypothesis testing, the proposed method surpasses the current state of the art."><meta property="og:image" content="https://romain-lopez.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://romain-lopez.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-02-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2020-02-19T03:06:04&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-02-01T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://romain-lopez.github.io/publication/sb-vae/"
+  },
+  "headline": "Decision-Making with Auto-Encoding Variational Bayes",
+  
+  "datePublished": "2020-02-19T03:06:04Z",
+  "dateModified": "2020-02-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "\u003cu\u003eRomain Lopez\u003c/u\u003e"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Romain Lopez",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://romain-lopez.github.io/img/icon-512.png"
+    }
+  },
+  "description": "To make decisions based on a model fit by Auto-Encoding Variational Bayes (AEVB), practitioners typically use importance sampling to estimate a functional of the posterior distribution. The variational distribution found by AEVB serves as the proposal distribution for importance sampling. However, this proposal distribution may give unreliable (high variance) importance sampling estimates, thus leading to poor decisions. We explore how changing the objective function for learning the variational distribution, while continuing to learn the generative model based on the ELBO, affects the quality of downstream decisions. For a particular model, we characterize the error of importance sampling as a function of posterior variance and show that proposal distributions learned with evidence upper bounds are better. Motivated by these theoretical results, we propose a novel variant of the VAE. In addition to experimenting with MNIST, we present a full-fledged application of the proposed method to single-cell RNA sequencing. In this challenging instance of multiple hypothesis testing, the proposed method surpasses the current state of the art."
+}
+</script>
+
+  
 
   
 
@@ -136,10 +179,13 @@
   
 
 
+  
 
 
 
-  <title>conference | Romain Lopez</title>
+
+
+  <title>Decision-Making with Auto-Encoding Variational Bayes | Romain Lopez</title>
 
 </head>
 
@@ -243,7 +289,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication"><span>Publications</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -321,6 +367,101 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Decision-Making with Auto-Encoding Variational Bayes</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><!-- raw HTML omitted -->Romain Lopez<!-- raw HTML omitted --></span>, <span>Pierre Boyeau</span>, <span>Nir Yosef</span>, <span>Michael I. Jordan</span>, <span>Jeffrey Regier</span>.
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -330,54 +471,147 @@
 
 
 
+  
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.arxiv.org/abs/2002.07217" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/sb-vae/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
 
 
   
+</div>
 
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">To make decisions based on a model fit by Auto-Encoding Variational Bayes (AEVB), practitioners typically use importance sampling to estimate a functional of the posterior distribution. The variational distribution found by AEVB serves as the proposal distribution for importance sampling. However, this proposal distribution may give unreliable (high variance) importance sampling estimates, thus leading to poor decisions. We explore how changing the objective function for learning the variational distribution, while continuing to learn the generative model based on the ELBO, affects the quality of downstream decisions. For a particular model, we characterize the error of importance sampling as a function of posterior variance and show that proposal distributions learned with evidence upper bounds are better. Motivated by these theoretical results, we propose a novel variant of the VAE. In addition to experimenting with MNIST, we present a full-fledged application of the proposed method to single-cell RNA sequencing. In this challenging instance of multiple hypothesis testing, the proposed method surpasses the current state of the art.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+             
+		Journal article
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Submitted</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
   
+  <a class="badge badge-light" href="/tags/insubmission/">insubmission</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>conference</h1>
-
   
 
+
+
+
+
+
   
+  
+  
+  
+  <div class="media author-card">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/uromain-lopez/u/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+    
+
+
+  </div>
 </div>
 
 
-
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/publication/bandit-2020/">Cost-Effective Incentive Allocation via Structured Counterfactual Inference</a></h2>
-    <div class="article-style">
-      
-      We address a practical problem ubiquitous in modern industry, in which a mediator tries to learn a policy for allocating strategic financial incentives for customers in a marketing campaign and observes only bandit feedback. In contrast to …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/hcv-nips/">Information Constraints on Auto-Encoding Variational Bayes</a></h2>
-    <div class="article-style">
-      
-      Parameterizing the approximate posterior of a generative model with neural networks has become a common theme in recent machine learning research. While providing appealing flexibility, this approach makes it difficult to impose or assess structural …
-      
-    </div>
-  </div>
-  
-
-  
-
-</div>
 
       
 

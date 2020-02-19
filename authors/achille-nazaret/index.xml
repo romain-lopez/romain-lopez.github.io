@@ -5,13 +5,7 @@
     <link>https://romain-lopez.github.io/authors/achille-nazaret/</link>
       <atom:link href="https://romain-lopez.github.io/authors/achille-nazaret/index.xml" rel="self" type="application/rss+xml" />
     <description>Achille Nazaret*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://romain-lopez.github.io/img/icon-192.png</url>
-      <title>Achille Nazaret*</title>
-      <link>https://romain-lopez.github.io/authors/achille-nazaret/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements</title>
       <link>https://romain-lopez.github.io/publication/gim-vi/</link>

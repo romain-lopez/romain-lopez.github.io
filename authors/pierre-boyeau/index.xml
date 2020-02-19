@@ -5,12 +5,14 @@
     <link>https://romain-lopez.github.io/authors/pierre-boyeau/</link>
       <atom:link href="https://romain-lopez.github.io/authors/pierre-boyeau/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre Boyeau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://romain-lopez.github.io/img/icon-192.png</url>
-      <title>Pierre Boyeau</title>
-      <link>https://romain-lopez.github.io/authors/pierre-boyeau/</link>
-    </image>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Decision-Making with Auto-Encoding Variational Bayes</title>
+      <link>https://romain-lopez.github.io/publication/sb-vae/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/sb-vae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Generative Models for Detecting Differential Expression in Single Cells</title>
