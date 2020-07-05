@@ -6,6 +6,12 @@
       <atom:link href="https://romain-lopez.github.io/authors/xiang-yan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiang Yan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>Xiang Yan</title>
+      <link>https://romain-lopez.github.io/authors/xiang-yan/</link>
+    </image>
+    
     <item>
       <title>Cost-Effective Incentive Allocation via Structured Counterfactual Inference</title>
       <link>https://romain-lopez.github.io/publication/bandit-2020/</link>

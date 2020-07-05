@@ -6,8 +6,14 @@
       <atom:link href="https://romain-lopez.github.io/authors/samuel-l.-wolock/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel L. Wolock</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>Samuel L. Wolock</title>
+      <link>https://romain-lopez.github.io/authors/samuel-l.-wolock/</link>
+    </image>
+    
     <item>
-      <title>Scrublet: computational identification of cell doublets in single-cell transcriptomic data</title>
+      <title>Scrublet: Computational Identification of Cell Doublets in Single-cell Transcriptomic Data</title>
       <link>https://romain-lopez.github.io/publication/scrublet/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/scrublet/</guid>

@@ -5,76 +5,12 @@
     <link>https://romain-lopez.github.io/tags/</link>
       <atom:link href="https://romain-lopez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://romain-lopez.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>conference</title>
-      <link>https://romain-lopez.github.io/tags/conference/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>insubmission</title>
-      <link>https://romain-lopez.github.io/tags/insubmission/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/insubmission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Generative models</title>
-      <link>https://romain-lopez.github.io/tags/deep-generative-models/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/deep-generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scRNA-seq</title>
-      <link>https://romain-lopez.github.io/tags/scrna-seq/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/scrna-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Inference</title>
-      <link>https://romain-lopez.github.io/tags/variational-inference/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/variational-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://romain-lopez.github.io/tags/workshop/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>journal</title>
-      <link>https://romain-lopez.github.io/tags/journal/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>featured</title>
-      <link>https://romain-lopez.github.io/tags/featured/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/tags/featured/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
