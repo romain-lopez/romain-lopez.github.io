@@ -5,7 +5,7 @@
     <link>https://romain-lopez.github.io/tags/variational-inference/</link>
       <atom:link href="https://romain-lopez.github.io/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>Variational Inference</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Variational Inference</title>
@@ -13,18 +13,29 @@
     </image>
     
     <item>
-      <title>Deep generative models for single-cell transcriptomics</title>
+      <title>Deep Generative Models for Single-cell Transcriptomics</title>
       <link>https://romain-lopez.github.io/project/scvi/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/project/scvi/</guid>
-      <description>&lt;p&gt;Single-cell Variational Inference (scVI) is a fully-probabilistic model for single-cell RNA-sequencing data. scVI is a deep generative model whose inference uses variational methods and is amortized with neural networks. Consequently, scVI is fast and fits one million cells in under a few hours. Furthermore, scVI is flexible and achieves high accuracy for dimensionality reduction, imputation and differential expression. In addition to the &lt;a href=&#34;https://romain-lopez.github.io/publication/sc-vi/&#34;&gt;journal publication&lt;/a&gt;, we recommend the following ressources to get more familiar with scVI:&lt;/p&gt;
+      <description>&lt;p&gt;Single-cell Variational Inference (scVI) is a set of tools for probabilistic analysis of single-cell RNA-sequencing data. We propose to solve quantitative biological questions with tailored and scalable Bayesian machinery. Examples of biological questions include cell-type discovery, data integration, transfer of annotations and differential expression analysis. Examples of statistical tools include deep generative models, stochastic variational inference, Bayesian decision theory and domain adaptation.&lt;/p&gt;
+&lt;p&gt;All the models in our codebase may fit millions of transcriptomic measurements in a few hours. In addition to the &lt;a href=&#34;https://romain-lopez.github.io/publication/sc-vi/&#34;&gt;original publication&lt;/a&gt;, we recommend the following ressources to get more familiar with scVI:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;our &lt;a href=&#34;https://github.com/YosefLab/scVI&#34;&gt;codebase&lt;/a&gt; and &lt;a href=&#34;https://scvi.readthedocs.io/en/stable/&#34;&gt;documentation&lt;/a&gt; which includes user-friendly notebooks&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://bioinformatics.chat/scvi&#34;&gt;podcast&lt;/a&gt; recorded on the bioinformatics chat&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://yoseflab.github.io/&#34;&gt;YosefLab blog&lt;/a&gt; usually includes discussions about special topics&lt;/li&gt;
-&lt;li&gt;our &lt;a href=&#34;https://github.com/YosefLab/scVI&#34;&gt;codebase&lt;/a&gt;, which includes user-friendly notebooks&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://www.nature.com/articles/s41592-018-0230-9&#34;&gt;News &amp;amp; View&lt;/a&gt; in Nature Methods&lt;/li&gt;
 &lt;li&gt;our &lt;a href=&#34;https://bair.berkeley.edu/blog/2018/12/05/genes/&#34;&gt;post&lt;/a&gt; on the Berkeley AI Research blog&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structured Counterfactual Inference</title>
+      <link>https://romain-lopez.github.io/project/counterfactuals/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/project/counterfactuals/</guid>
+      <description>&lt;p&gt;In batch learning from bandit feedback, we observe a context (e.g., some covariates describing a patient or a customer), choose an action (e.g., a treatment or a recommendation) and observe an outcome (e.g., treatment effect or a proxy for user experience). However, we may only observe the effects of a logging policy, that we hope to improve over. Dealing with biases and variance for offline policy learning is a challenging setting.&lt;/p&gt;
+&lt;p&gt;We study two specific scenarios of policy optimization in which additional structure (e.g., monotonicity or reward sparsity) can be exploited to provide better bias-variance trade-offs.&lt;/p&gt;
 </description>
     </item>
     

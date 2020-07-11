@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Biology | Romain Lopez</title>
+    <link>https://romain-lopez.github.io/tags/molecular-biology/</link>
+      <atom:link href="https://romain-lopez.github.io/tags/molecular-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molecular Biology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://romain-lopez.github.io/img/icon-192.png</url>
+      <title>Molecular Biology</title>
+      <link>https://romain-lopez.github.io/tags/molecular-biology/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Bayesian Inference for Science</title>
+      <link>https://romain-lopez.github.io/project/science/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/project/science/</guid>
+      <description>&lt;p&gt;Linear models and all their extensions (linear mixed models, GLMs, matrix factorization) have many advantages. First, reliable inference procedures, sometimes with guarantee of convergence and associated code are often widely available for those models. Second, these simple models are interpretable in the sense that it is possible to know which covariate is most associated with a certain target. Often, there are also direct connections to hypothesis testing.&lt;/p&gt;
+&lt;p&gt;To go beyond conjugacy and linearity, users of deep generative models sometimes sacrifice part of those benefits. In these manuscripts, we study two practical problems that emerged with the use of variational autoencoders: disentanglement of latent variables as well as hypothesis testing (in the more general context of decision-making). We also review recent advances and challenges of applying deep generative models for scientific discoveries in molecular biology applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://romain-lopez.github.io/tags/journal/</link>
       <atom:link href="https://romain-lopez.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>journal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>journal</title>
       <link>https://romain-lopez.github.io/tags/journal/</link>
     </image>
+    
+    <item>
+      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/review-paper/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/review-paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scrublet: Computational Identification of Cell Doublets in Single-cell Transcriptomic Data</title>

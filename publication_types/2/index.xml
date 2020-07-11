@@ -5,7 +5,7 @@
     <link>https://romain-lopez.github.io/publication_types/2/</link>
       <atom:link href="https://romain-lopez.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,50 +13,50 @@
     </image>
     
     <item>
-      <title>Learning from eXtreme Bandit Feedback</title>
-      <link>https://romain-lopez.github.io/publication/poxm/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/poxm/</guid>
+      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/review-paper/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/review-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-Effective Incentive Allocation via Structured Counterfactual Inference</title>
+      <link>https://romain-lopez.github.io/publication/ccp-ov-sire/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/ccp-ov-sire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-Making with Auto-Encoding Variational Bayes</title>
+      <link>https://romain-lopez.github.io/publication/decision-making/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/decision-making/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
       <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/review-2019/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/review-2019/</guid>
+      <title>Learning from eXtreme Bandit Feedback</title>
+      <link>https://romain-lopez.github.io/publication/poxm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/poxm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics Data with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/scanvi-2019/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/scanvi-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost-Effective Incentive Allocation via Structured Counterfactual Inference</title>
-      <link>https://romain-lopez.github.io/publication/bandit-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/bandit-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision-Making with Auto-Encoding Variational Bayes</title>
-      <link>https://romain-lopez.github.io/publication/sb-vae/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/sb-vae/</guid>
+      <link>https://romain-lopez.github.io/publication/scanvi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi/</guid>
       <description></description>
     </item>
     
@@ -70,9 +70,9 @@
     
     <item>
       <title>Deep Generative Models for Detecting Differential Expression in Single Cells</title>
-      <link>https://romain-lopez.github.io/publication/lfcmlcb/</link>
+      <link>https://romain-lopez.github.io/publication/lfc-change/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/lfcmlcb/</guid>
+      <guid>https://romain-lopez.github.io/publication/lfc-change/</guid>
       <description></description>
     </item>
     
