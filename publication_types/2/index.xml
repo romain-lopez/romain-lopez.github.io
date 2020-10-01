@@ -5,12 +5,44 @@
     <link>https://romain-lopez.github.io/publication_types/2/</link>
       <atom:link href="https://romain-lopez.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://romain-lopez.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from eXtreme Bandit Feedback</title>
+      <link>https://romain-lopez.github.io/publication/poxm/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/poxm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics Data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-Making with Auto-Encoding Variational Bayes</title>
+      <link>https://romain-lopez.github.io/publication/decision-making/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/decision-making/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
@@ -25,38 +57,6 @@
       <link>https://romain-lopez.github.io/publication/ccp-ov-sire/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/ccp-ov-sire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision-Making with Auto-Encoding Variational Bayes</title>
-      <link>https://romain-lopez.github.io/publication/decision-making/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/decision-making/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
-      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning from eXtreme Bandit Feedback</title>
-      <link>https://romain-lopez.github.io/publication/poxm/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/poxm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics Data with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/scanvi/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/scanvi/</guid>
       <description></description>
     </item>
     

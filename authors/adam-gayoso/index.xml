@@ -5,7 +5,7 @@
     <link>https://romain-lopez.github.io/authors/adam-gayoso/</link>
       <atom:link href="https://romain-lopez.github.io/authors/adam-gayoso/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Gayoso</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>Adam Gayoso</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
-      <link>https://romain-lopez.github.io/publication/review-paper/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/review-paper/</guid>
+      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
-      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
+      <title>Enhancing Scientiﬁc Discoveries in Molecular Biology with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/review-paper/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/review-paper/</guid>
       <description></description>
     </item>
     
