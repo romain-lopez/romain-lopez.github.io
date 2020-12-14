@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://romain-lopez.github.io/publication_types/2/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/tags/conference/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/inderjit-dhillon/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/publication/poxm/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/authors/michael-i.-jordan/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/publication_types/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romain-lopez.github.io/tags/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +49,6 @@
   
   <url>
     <loc>https://romain-lopez.github.io/authors/adam-gayoso/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,16 +63,6 @@
   </url>
   
   <url>
-    <loc>https://romain-lopez.github.io/authors/inderjit-dhillon/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/tags/insubmission/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://romain-lopez.github.io/authors/jeffrey-regier/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,17 +73,12 @@
   </url>
   
   <url>
+    <loc>https://romain-lopez.github.io/tags/journal/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://romain-lopez.github.io/authors/kristopher-l-nazor/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/publication/poxm/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/authors/michael-i.-jordan/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,23 +93,8 @@
   </url>
   
   <url>
-    <loc>https://romain-lopez.github.io/publication_types/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/tags/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://romain-lopez.github.io/authors/zoe-steier/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/tags/conference/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -119,12 +119,12 @@
   
   <url>
     <loc>https://romain-lopez.github.io/tags/deep-generative-models/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/project/scvi/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://romain-lopez.github.io/tags/scrna-seq/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
@@ -149,7 +149,7 @@
   
   <url>
     <loc>https://romain-lopez.github.io/tags/variational-inference/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
@@ -194,7 +194,7 @@
   
   <url>
     <loc>https://romain-lopez.github.io/publication/total-vimlcb/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
@@ -204,92 +204,87 @@
   
   <url>
     <loc>https://romain-lopez.github.io/publication/auto-zi/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/oscar-clivio/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/tags/workshop/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/publication/gim-vi/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/achille-nazaret/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/jules-samaran/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/maxime-langevin/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/michael-i-jordan/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/allon-m.-klein/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romain-lopez.github.io/tags/journal/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/samuel-l.-wolock/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/publication/scrublet/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/publication/sc-vi/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/michael-b.-cole/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/publication/hcv-nips/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/publication/noisy-labels/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/publication/sc-v-iworkshop/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://romain-lopez.github.io/authors/admin/</loc>
-    <lastmod>2019-10-07T14:39:40-07:00</lastmod>
+    <lastmod>2020-10-01T08:43:02-07:00</lastmod>
   </url>
   
   <url>

@@ -5,12 +5,28 @@
     <link>https://romain-lopez.github.io/tags/journal/</link>
       <atom:link href="https://romain-lopez.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>journal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>journal</title>
       <link>https://romain-lopez.github.io/tags/journal/</link>
     </image>
+    
+    <item>
+      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics Data with Deep Generative Models</title>
+      <link>https://romain-lopez.github.io/publication/scanvi/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/scanvi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scrublet: Computational Identification of Cell Doublets in Single-cell Transcriptomic Data</title>
