@@ -5,12 +5,20 @@
     <link>https://romain-lopez.github.io/publication_types/2/</link>
       <atom:link href="https://romain-lopez.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2020</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Romain Lopez 2021</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romain-lopez.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://romain-lopez.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
+      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning from eXtreme Bandit Feedback</title>
@@ -21,17 +29,9 @@
     </item>
     
     <item>
-      <title>Joint Probabilistic Modeling of Paired Transcriptome and Proteome Measurements in Single Cells</title>
-      <link>https://romain-lopez.github.io/publication/total-v-ijournal/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/total-v-ijournal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Probabilistic Harmonization and Annotation of Single-cell Transcriptomics Data with Deep Generative Models</title>
       <link>https://romain-lopez.github.io/publication/scanvi/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/scanvi/</guid>
       <description></description>
     </item>
@@ -69,6 +69,14 @@
     </item>
     
     <item>
+      <title>A Joint Model of Unpaired Data from scRNA-seq and Spatial Transcriptomics for Imputing Missing Gene Expression Measurements</title>
+      <link>https://romain-lopez.github.io/publication/gim-vi/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://romain-lopez.github.io/publication/gim-vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Generative Models for Detecting Differential Expression in Single Cells</title>
       <link>https://romain-lopez.github.io/publication/lfc-change/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -81,14 +89,6 @@
       <link>https://romain-lopez.github.io/publication/auto-zi/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://romain-lopez.github.io/publication/auto-zi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Joint Model of Unpaired Data from scRNA-seq and Spatial Transcriptomics for Imputing Missing Gene Expression Measurements</title>
-      <link>https://romain-lopez.github.io/publication/gim-vi/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://romain-lopez.github.io/publication/gim-vi/</guid>
       <description></description>
     </item>
     
